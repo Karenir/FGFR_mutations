@@ -1,0 +1,1158 @@
+Position,CDS Mutation,AA Mutation,Legacy Mutation ID,Count,Type
+3,c.8G>T,p.S3I,COSM6180979,1,Substitution - Missense
+4,c.12G>T,p.W4C,COSM8002783,1,Substitution - Missense
+5,c.15G>A,p.K5=,COSM3996046,2,Substitution - coding silent
+7,c.21C>T,p.L7=,COSM8458400,1,Substitution - coding silent
+8,c.22C>T,p.L8F,COSM10526954,1,Substitution - Missense
+10,c.30G>T,p.W10C,COSM486446,1,Substitution - Missense
+12,c.34G>T,p.V12L,COSM9993013,1,Substitution - Missense
+13,c.38T>C,p.L13P,COSM8881010,1,Substitution - Missense
+17,c.51A>G,p.T17=,COSM1489275,1,Substitution - coding silent
+20,c.59C>T,p.T20I,COSM3648925,1,Substitution - Missense
+20,c.60C>T,p.T20=,COSM5115498,1,Substitution - coding silent
+21,c.61G>A,p.A21T,COSM1623994,2,Substitution - Missense
+22,c.66G>A,p.R22=,COSM9621833,1,Substitution - coding silent
+23,c.67C>T,p.P23S,COSM2960593,1,Substitution - Missense
+23,c.68C>T,p.P23L,COSM1699988,2,Substitution - Missense
+23,c.69G>A,p.P23=,COSM6663648,3,Substitution - coding silent
+24,c.71C>T,p.S24F,COSM5409545,1,Substitution - Missense
+25,c.73C>T,p.P25S,COSM6931809,1,Substitution - Missense
+25,c.74C>A,p.P25Q,COSM750440,2,Substitution - Missense
+25,c.74C>T,p.P25L,COSM1099655,3,Substitution - Missense
+26,c.78C>A,p.T26=,COSM6180984,1,Substitution - coding silent
+26,c.?,p.T26I,COSM1735706,2,Substitution - Missense
+31,c.91G>T,p.A31S,COSM8086673,2,Substitution - Missense
+32,c.94C>T,p.Q32*,COSM10219669,1,Substitution - Nonsense
+33,c.98C>T,p.P33L,COSM6913658,1,Substitution - Missense
+36,c.108C>T,p.A36=,COSM8359542,2,Substitution - coding silent
+37,c.109C>T,p.P37S,COSM6050377,1,Substitution - Missense
+38,c.114G>T,p.V38=,COSM7961395,1,Substitution - coding silent
+41,c.121G>C,p.E41Q,COSM6912206,2,Substitution - Missense
+42,c.125C>G,p.S42C,COSM10046348,4,Substitution - Missense
+43,c.129C>T,p.F43=,COSM9391380,1,Substitution - coding silent
+46,c.136C>T,p.H46Y,COSM3648920,1,Substitution - Missense
+46,c.137A>G,p.H46R,COSM6663616,1,Substitution - Missense
+46,c.138C>T,p.H46=,COSM4993079,1,Substitution - coding silent
+48,c.142G>T,p.G48C,COSM7416211,1,Substitution - Missense
+48,c.143G>A,p.G48D,COSM6923227,2,Substitution - Missense
+49,c.145G>T,p.D49Y,COSM4772860,1,Substitution - Missense
+54,c.160C>T,p.R54C,COSM2960583,4,Substitution - Missense
+54,c.161G>A,p.R54H,COSM6955068,1,Substitution - Missense
+54,c.?,p.R54C,COSM9583355,1,Substitution - Missense
+55,c.164G>C,p.C55S,COSM7368207,1,Substitution - Missense
+56,c.166C>T,p.R56W,COSM5455672,1,Substitution - Missense
+56,c.167G>A,p.R56Q,COSM9596134,1,Substitution - Missense
+56,c.167G>C,p.R56P,COSM9995956,1,Substitution - Missense
+56,c.168G>A,p.R56=,COSM9796169,1,Substitution - coding silent
+57,c.169C>A,p.L57M,COSM6853429,1,Substitution - Missense
+58,c.172C>T,p.R58W,COSM6952241,2,Substitution - Missense
+59,c.177C>T,p.D59=,COSM5075014,1,Substitution - coding silent
+60,c.178G>A,p.D60N,COSM6962365,3,Substitution - Missense
+60,c.179_181del,p.D60del,COSM9976095,1,Deletion - In frame
+62,c.186G>C,p.Q62H,COSM6966254,1,Substitution - Missense
+64,c.190A>T,p.I64F,COSM1099654,1,Substitution - Missense
+67,c.199C>T,p.L67=,COSM10380102,1,Substitution - coding silent
+68,c.202C>T,p.R68W,COSM6663681,1,Substitution - Missense
+68,c.203G>C,p.R68P,COSM10331150,1,Substitution - Missense
+69,c.205G>A,p.D69N,COSM10177960,1,Substitution - Missense
+70,c.208G>A,p.G70R,COSM48381,1,Substitution - Missense
+70,c.209G>T,p.G70V,COSM6956070,1,Substitution - Missense
+70,c.?,p.G70R,COSM9516314,1,Substitution - Missense
+74,c.220G>A,p.A74T,COSM9899520,1,Substitution - Missense
+74,c.222G>A,p.A74=,COSM3374920,2,Substitution - coding silent
+75,c.223G>T,p.E75*,COSM10191142,1,Substitution - Nonsense
+77,c.231C>G,p.N77K,COSM9991802,1,Substitution - Missense
+78,c.232C>T,p.R78C,COSM5140311,1,Substitution - Missense
+78,c.233G>A,p.R78H,COSM6005653,1,Substitution - Missense
+80,c.238C>T,p.R80C,COSM3648915,3,Substitution - Missense
+80,c.238dup,p.R80Pfs*31,COSM9138668,1,Insertion - Frameshift
+80,c.239G>A,p.R80H,COSM8199863,1,Substitution - Missense
+82,c.244A>G,p.T82A,COSM4684562,1,Substitution - Missense
+83,c.247G>T,p.G83W,COSM6950182,1,Substitution - Missense
+84,c.252G>A,p.E84=,COSM10526949,1,Substitution - coding silent
+85,c.255G>A,p.E85=,COSM10072897,2,Substitution - coding silent
+87,c.259G>T,p.E87*,COSM10305122,1,Substitution - Nonsense
+87,c.261G>T,p.E87D,COSM6983681,1,Substitution - Missense
+92,c.275T>A,p.V92E,COSM6977601,1,Substitution - Missense
+93,c.279C>T,p.P93=,COSM1456971,2,Substitution - coding silent
+96,c.287C>T,p.S96F,COSM10526944,1,Substitution - Missense
+97,c.289G>A,p.G97S,COSM5608742,1,Substitution - Missense
+97,c.289G>C,p.G97R,COSM9974753,2,Substitution - Missense
+99,c.296A>G,p.Y99C,COSM6918211,1,Substitution - Missense
+101,c.303C>T,p.C101=,COSM5075011,1,Substitution - coding silent
+101,c.?,p.C101=,COSM6904689,1,Substitution - coding silent
+102,c.304G>A,p.V102I,COSM6925706,2,Substitution - Missense
+104,c.310A>C,p.S104R,COSM3834685,1,Substitution - Missense
+104,c.311G>A,p.S104N,COSM6953166,1,Substitution - Missense
+107,c.318del,p.S107Rfs*45,COSM8546720,1,Deletion - Frameshift
+107,c.320C>T,p.S107L,COSM1236023,4,Substitution - Missense
+111,c.333C>T,p.T111=,COSM9679175,1,Substitution - coding silent
+113,c.338A>G,p.Y113C,COSM3699074,2,Substitution - Missense
+113,c.338A>T,p.Y113F,COSM6925251,1,Substitution - Missense
+115,c.344C>T,p.S115F,COSM8048987,1,Substitution - Missense
+116,c.346G>A,p.V116I,COSM6853424,3,Substitution - Missense
+119,c.356C>G,p.S119*,COSM9112219,1,Substitution - Nonsense
+121,c.362C>A,p.A121D,COSM4978869,4,Substitution - Missense
+121,c.362C>T,p.A121V,COSM6914306,1,Substitution - Missense
+123,c.367C>T,p.P123S,COSM3648909,1,Substitution - Missense
+123,c.368C>T,p.P123L,COSM5991472,1,Substitution - Missense
+123,c.369C>T,p.P123=,COSM9515346,1,Substitution - coding silent
+125,c.374C>T,p.S125L,COSM601,3,Substitution - Missense
+125,c.?,p.S125L,COSM6476278,2,Substitution - Missense
+125,c.?,p.S125P,COSM6005474,1,Substitution - Missense
+126,c.378G>T,p.E126D,COSM10049292,1,Substitution - Missense
+128,c.382G>A,p.D128N,COSM4808520,2,Substitution - Missense
+128,c.383A>T,p.D128V,COSM4808512,2,Substitution - Missense
+129,c.386A>C,p.D129A,COSM6904746,1,Substitution - Missense
+130,c.388G>A,p.D130N,COSM6929761,2,Substitution - Missense
+132,c.394G>A,p.D132N,COSM5991486,2,Substitution - Missense
+133,c.396_398del,p.D133del,COSM7262168,9,Deletion - In frame
+133,c.396_398dup,p.D133dup,COSM5105963,3,Insertion - In frame
+133,c.397G>A,p.D133N,COSM98900,2,Substitution - Missense
+133,c.399C>A,p.D133E,COSM6005760,1,Substitution - Missense
+135,c.404C>T,p.S135F,COSM6005759,1,Substitution - Missense
+136,c.407C>T,p.S136L,COSM6911133,1,Substitution - Missense
+137,c.409G>A,p.E137K,COSM10075248,1,Substitution - Missense
+137,c.409G>T,p.E137*,COSM7449851,2,Substitution - Nonsense
+137,c.411G>T,p.E137D,COSM5169532,1,Substitution - Missense
+138,c.412G>T,p.E138*,COSM6005758,1,Substitution - Nonsense
+138,c.?,p.E138K,COSM6022955,1,Substitution - Missense
+139,c.415A>G,p.K139E,COSM6921183,1,Substitution - Missense
+140,c.418G>C,p.E140Q,COSM9577842,1,Substitution - Missense
+141,c.422C>G,p.T141R,COSM48380,2,Substitution - Missense
+141,c.?,p.T141R,COSM1666869,5,Substitution - Missense
+142,c.424G>C,p.D142H,COSM6959654,1,Substitution - Missense
+142,c.426T>A,p.D142E,COSM4771179,1,Substitution - Missense
+144,c.430A>G,p.T144A,COSM6937778,1,Substitution - Missense
+146,c.437C>T,p.P146L,COSM5991487,1,Substitution - Missense
+147,c.441C>T,p.N147=,COSM8735837,1,Substitution - coding silent
+148,c.442C>T,p.R148C,COSM6916913,2,Substitution - Missense
+148,c.443G>A,p.R148H,COSM5966956,2,Substitution - Missense
+150,c.448C>T,p.P150S,COSM187237,5,Substitution - Missense
+150,c.449C>T,p.P150L,COSM2960563,1,Substitution - Missense
+151,c.451G>A,p.V151I,COSM6914488,1,Substitution - Missense
+152,c.454G>A,p.A152T,COSM1099650,1,Substitution - Missense
+159,c.476A>G,p.E159G,COSM6932213,1,Substitution - Missense
+160,c.480G>A,p.K160=,COSM9389742,1,Substitution - coding silent
+164,c.491A>G,p.K164R,COSM9047259,1,Substitution - Missense
+165,c.494T>G,p.L165W,COSM6915616,1,Substitution - Missense
+165,c.495G>A,p.L165=,COSM8853166,2,Substitution - coding silent
+166,c.496C>T,p.H166Y,COSM8449400,2,Substitution - Missense
+167,c.501A>G,p.A167=,COSM6663642,1,Substitution - coding silent
+169,c.505C>T,p.P169S,COSM10133375,1,Substitution - Missense
+170,c.508G>T,p.A170S,COSM7725606,1,Substitution - Missense
+171,c.512C>T,p.A171V,COSM10133259,1,Substitution - Missense
+178,c.534C>T,p.C178=,COSM10526938,1,Substitution - coding silent
+179,c.?,p.P179S,COSM6856685,1,Substitution - Missense
+182,c.544G>T,p.G182W,COSM7985265,1,Substitution - Missense
+184,c.550C>T,p.P184S,COSM9691432,1,Substitution - Missense
+185,c.553A>C,p.N185H,COSM9112899,1,Substitution - Missense
+185,c.554A>C,p.N185T,COSM6916785,1,Substitution - Missense
+188,c.562C>T,p.L188=,COSM7796313,1,Substitution - coding silent
+188,c.563T>A,p.L188Q,COSM7751925,1,Substitution - Missense
+189,c.565C>T,p.R189C,COSM244522,3,Substitution - Missense
+189,c.566G>A,p.R189H,COSM1099646,1,Substitution - Missense
+189,c.567C>T,p.R189=,COSM6663604,1,Substitution - coding silent
+192,c.575A>G,p.K192R,COSM10048183,1,Substitution - Missense
+193,c.578dup,p.N193Kfs*8,COSM1456942,3,Insertion - Frameshift
+197,c.591C>G,p.F197L,COSM7703822,1,Substitution - Missense
+197,c.591C>T,p.F197=,COSM6870005,1,Substitution - coding silent
+198,c.593A>C,p.K198T,COSM10526932,1,Substitution - Missense
+200,c.600C>T,p.D200=,COSM5019678,1,Substitution - coding silent
+202,c.605G>C,p.R202T,COSM6914020,1,Substitution - Missense
+204,c.611G>A,p.G204E,COSM9121256,1,Substitution - Missense
+206,c.616T>G,p.Y206D,COSM10049286,1,Substitution - Missense
+208,c.624C>T,p.V208=,COSM4506360,1,Substitution - coding silent
+209,c.625C>A,p.R209S,COSM9101750,1,Substitution - Missense
+209,c.625C>T,p.R209C,COSM6967080,4,Substitution - Missense
+209,c.626G>A,p.R209H,COSM2960528,1,Substitution - Missense
+210,c.630T>C,p.Y210=,COSM9171488,1,Substitution - coding silent
+211,c.632C>T,p.A211V,COSM422128,2,Substitution - Missense
+213,c.639G>A,p.W213*,COSM10236436,1,Substitution - Nonsense
+218,c.652G>A,p.D218N,COSM1456937,4,Substitution - Missense
+221,c.661G>T,p.V221L,COSM6904446,1,Substitution - Missense
+221,c.662T>C,p.V221A,COSM10505428,1,Substitution - Missense
+222,c.665C>T,p.P222L,COSM10046333,3,Substitution - Missense
+224,c.671A>G,p.D224G,COSM6912373,1,Substitution - Missense
+225,c.?,p.K225R,COSM5881410,1,Substitution - Missense
+226,c.677G>A,p.G226D,COSM9261092,1,Substitution - Missense
+227,c.680A>G,p.N227S,COSM4684556,1,Substitution - Missense
+228,c.683A>G,p.Y228C,COSM6663686,1,Substitution - Missense
+229,c.685A>C,p.T229P,COSM6956170,1,Substitution - Missense
+235,c.705G>C,p.E235D,COSM9577836,1,Substitution - Missense
+236,c.708C>T,p.Y236=,COSM6663653,1,Substitution - coding silent
+238,c.713G>A,p.S238N,COSM4795864,1,Substitution - Missense
+239,c.715A>G,p.I239V,COSM6663632,1,Substitution - Missense
+242,c.724A>G,p.T242A,COSM6663669,1,Substitution - Missense
+248,c.742G>A,p.V248M,COSM6937772,1,Substitution - Missense
+249,c.745G>T,p.E249*,COSM6261415,1,Substitution - Nonsense
+250,c.748C>T,p.R250W,COSM3900045,4,Substitution - Missense
+250,c.749G>A,p.R250Q,COSM3785989,3,Substitution - Missense
+251,c.752C>T,p.S251F,COSM2960523,1,Substitution - Missense
+251,c.753C>T,p.S251=,COSM3648903,1,Substitution - coding silent
+252,c.754C>A,p.P252T,COSM12834,2,Substitution - Missense
+252,c.754C>T,p.P252S,COSM2960518,1,Substitution - Missense
+253,c.757C>T,p.H253Y,COSM6842038,1,Substitution - Missense
+254,c.760C>T,p.R254W,COSM3395324,2,Substitution - Missense
+254,c.761G>A,p.R254Q,COSM8991388,1,Substitution - Missense
+254,c.761G>T,p.R254L,COSM3413001,1,Substitution - Missense
+254,c.762G>T,p.R254=,COSM334850,1,Substitution - coding silent
+256,c.768C>T,p.I256=,COSM9807970,1,Substitution - coding silent
+257,c.769C>A,p.L257M,COSM10033293,1,Substitution - Missense
+257,c.769C>T,p.L257=,COSM9799600,1,Substitution - coding silent
+259,c.776C>T,p.A259V,COSM2960513,1,Substitution - Missense
+260,c.780G>T,p.G260=,COSM10434940,1,Substitution - coding silent
+262,c.784C>T,p.P262S,COSM6663593,1,Substitution - Missense
+262,c.786C>T,p.P262=,COSM3900039,2,Substitution - coding silent
+263,c.787G>A,p.A263T,COSM10038217,1,Substitution - Missense
+263,c.787G>T,p.A263S,COSM486442,1,Substitution - Missense
+263,c.?,p.A263V,COSM5981976,1,Substitution - Missense
+268,c.802G>A,p.A268T,COSM7469836,1,Substitution - Missense
+268,c.802G>T,p.A268S,COSM2960508,3,Substitution - Missense
+270,c.808G>T,p.G270C,COSM6196601,1,Substitution - Missense
+270,c.?,p.G270S,COSM6849483,1,Substitution - Missense
+272,c.816C>T,p.N272=,COSM1292690,5,Substitution - coding silent
+275,c.825C>T,p.F275=,COSM3648897,1,Substitution - coding silent
+277,c.830G>A,p.C277Y,COSM7347043,1,Substitution - Missense
+278,c.834G>T,p.K278N,COSM9996920,1,Substitution - Missense
+281,c.842G>A,p.S281N,COSM3900033,1,Substitution - Missense
+282,c.846C>A,p.D282E,COSM9113193,1,Substitution - Missense
+282,c.846C>T,p.D282=,COSM5420179,1,Substitution - coding silent
+283,c.847C>T,p.P283S,COSM10526926,1,Substitution - Missense
+283,c.848C>T,p.P283L,COSM6951227,3,Substitution - Missense
+283,c.849G>A,p.P283=,COSM5159161,1,Substitution - coding silent
+284,c.852G>T,p.Q284H,COSM8994259,1,Substitution - Missense
+285,c.853C>T,p.P285S,COSM2960503,3,Substitution - Missense
+285,c.854C>T,p.P285L,COSM9361228,2,Substitution - Missense
+285,c.855G>A,p.P285=,COSM8537378,1,Substitution - coding silent
+286,c.855dup,p.H286Afs*32,COSM6191547,2,Insertion - Frameshift
+287,c.860T>A,p.I287N,COSM9946520,1,Substitution - Missense
+288,c.862C>A,p.Q288K,COSM6978028,1,Substitution - Missense
+288,c.862C>T,p.Q288*,COSM10526920,1,Substitution - Nonsense
+294,c.880G>A,p.E294K,COSM9943368,2,Substitution - Missense
+295,c.883G>T,p.V295L,COSM10119254,1,Substitution - Missense
+296,c.?,p.N296K,COSM9609407,1,Substitution - Missense
+297,c.?,p.G297W,COSM9609405,1,Substitution - Missense
+307,c.919T>C,p.Y307H,COSM6949232,2,Substitution - Missense
+308,c.924C>T,p.V308=,COSM9802814,1,Substitution - coding silent
+309,c.925C>A,p.Q309K,COSM394361,1,Substitution - Missense
+309,c.925C>T,p.Q309*,COSM3648891,2,Substitution - Nonsense
+309,c.926A>T,p.Q309L,COSM9997469,1,Substitution - Missense
+310,c.928A>G,p.I310V,COSM9180035,1,Substitution - Missense
+310,c.930C>T,p.I310=,COSM3648885,1,Substitution - coding silent
+311,c.933G>C,p.L311F,COSM3779210,1,Substitution - Missense
+313,c.938C>T,p.T313I,COSM6946228,1,Substitution - Missense
+315,c.943G>A,p.G315R,COSM6947617,2,Substitution - Missense
+315,c.943G>T,p.G315*,COSM7846987,1,Substitution - Nonsense
+315,c.944G>A,p.G315E,COSM43069,1,Substitution - Missense
+315,c.944G>C,p.G315A,COSM9998093,1,Substitution - Missense
+319,c.955A>G,p.T319A,COSM2960482,2,Substitution - Missense
+319,c.957C>T,p.T319=,COSM4684552,5,Substitution - coding silent
+320,c.958G>A,p.D320N,COSM1099642,2,Substitution - Missense
+323,c.969G>T,p.M323I,COSM7845486,1,Substitution - Missense
+325,c.973G>A,p.V325M,COSM3900029,1,Substitution - Missense
+329,c.986G>A,p.R329K,COSM5922677,1,Substitution - Missense
+332,c.995C>T,p.S332F,COSM3779206,2,Substitution - Missense
+334,c.1000G>C,p.E334Q,COSM4603969,1,Substitution - Missense
+335,c.1005C>T,p.D335=,COSM7284177,2,Substitution - coding silent
+338,c.1014G>C,p.E338D,COSM5784441,1,Substitution - Missense
+340,c.1019C>T,p.T340M,COSM3699069,6,Substitution - Missense
+343,c.1028C>T,p.A343V,COSM2960474,5,Substitution - Missense
+345,c.1034A>C,p.N345T,COSM6955382,1,Substitution - Missense
+347,c.1039A>G,p.I347V,COSM9994691,1,Substitution - Missense
+347,c.1041C>T,p.I347=,COSM8446023,2,Substitution - coding silent
+348,c.1042G>A,p.G348R,COSM8907807,1,Substitution - Missense
+349,c.1047C>T,p.L349=,COSM7098954,2,Substitution - coding silent
+351,c.1052A>G,p.H351R,COSM6191519,1,Substitution - Missense
+352,c.1054C>T,p.H352Y,COSM7178042,1,Substitution - Missense
+352,c.1055A>G,p.H352R,COSM3900025,1,Substitution - Missense
+352,c.1056C>A,p.H352Q,COSM3942652,1,Substitution - Missense
+353,c.1057T>A,p.S353T,COSM4162987,1,Substitution - Missense
+357,c.1070C>T,p.T357I,COSM6005533,2,Substitution - Missense
+357,c.1071C>T,p.T357=,COSM1456924,2,Substitution - coding silent
+358,c.1072G>A,p.V358I,COSM2960470,2,Substitution - Missense
+358,c.1073T>C,p.V358A,COSM6191518,1,Substitution - Missense
+359,c.1077G>T,p.L359=,COSM8671293,1,Substitution - coding silent
+362,c.1086G>C,p.L362=,COSM8742071,1,Substitution - coding silent
+363,c.1087G>A,p.E363K,COSM4522800,2,Substitution - Missense
+364,c.1090G>C,p.E364Q,COSM9993181,1,Substitution - Missense
+366,c.1098G>A,p.P366=,COSM8885354,2,Substitution - coding silent
+367,c.1100C>T,p.A367V,COSM6663676,1,Substitution - Missense
+369,c.1107G>A,p.M369I,COSM6951082,1,Substitution - Missense
+371,c.1112C>T,p.S371L,COSM4367405,3,Substitution - Missense
+371,c.1113G>A,p.S371=,COSM1099639,2,Substitution - coding silent
+371,c.1113G>T,p.S371=,COSM6180989,1,Substitution - coding silent
+373,c.1117C>T,p.L373=,COSM3834680,1,Substitution - coding silent
+375,c.1123C>A,p.L375M,COSM4162982,2,Substitution - Missense
+376,c.1126G>T,p.E376*,COSM2960462,1,Substitution - Nonsense
+377,c.1131C>G,p.I377M,COSM6987531,2,Substitution - Missense
+377,c.1131C>T,p.I377=,COSM8106939,1,Substitution - coding silent
+382,c.1145C>T,p.T382I,COSM1099636,1,Substitution - Missense
+382,c.1146A>T,p.T382=,COSM7811373,1,Substitution - coding silent
+384,c.1151C>T,p.A384V,COSM9103482,1,Substitution - Missense
+384,c.1152C>T,p.A384=,COSM10380107,1,Substitution - coding silent
+386,c.1158C>T,p.L386=,COSM3648880,1,Substitution - coding silent
+388,c.1163C>T,p.S388F,COSM10107121,1,Substitution - Missense
+393,c.1178C>T,p.S393L,COSM7595113,3,Substitution - Missense
+393,c.1179G>A,p.S393=,COSM5455667,2,Substitution - coding silent
+395,c.1183A>G,p.I395V,COSM10115993,1,Substitution - Missense
+395,c.1185C>T,p.I395=,COSM1163509,3,Substitution - coding silent
+398,c.1194G>C,p.K398N,COSM7412155,1,Substitution - Missense
+399,c.1197G>A,p.M399I,COSM9452605,2,Substitution - Missense
+403,c.1208C>A,p.T403N,COSM3951641,2,Substitution - Missense
+403,c.1208C>T,p.T403I,COSM9240522,1,Substitution - Missense
+403,c.1209C>A,p.T403=,COSM3951636,2,Substitution - coding silent
+404,c.1211A>G,p.K404R,COSM9373567,1,Substitution - Missense
+404,c.1212G>T,p.K404N,COSM9333761,1,Substitution - Missense
+405,c.1214A>G,p.K405R,COSM10526914,1,Substitution - Missense
+405,c.1215G>A,p.K405=,COSM10526909,1,Substitution - coding silent
+406,c.1217G>A,p.S406N,COSM6919755,2,Substitution - Missense
+408,c.1224C>T,p.F408=,COSM4464062,1,Substitution - coding silent
+410,c.1228A>G,p.S410G,COSM7715792,1,Substitution - Missense
+411,c.1231C>A,p.Q411K,COSM7918284,1,Substitution - Missense
+411,c.1233G>C,p.Q411H,COSM9359771,1,Substitution - Missense
+412,c.1234A>C,p.M412L,COSM10132977,1,Substitution - Missense
+413,c.1237G>A,p.A413T,COSM10046249,1,Substitution - Missense
+415,c.1243C>A,p.H415N,COSM9121262,1,Substitution - Missense
+419,c.1255A>G,p.K419E,COSM3648875,2,Substitution - Missense
+421,c.1261A>G,p.I421V,COSM98897,2,Substitution - Missense
+422,c.1264C>A,p.P422T,COSM7937108,1,Substitution - Missense
+422,c.1264C>T,p.P422S,COSM6983413,1,Substitution - Missense
+423,c.1269G>A,p.L423=,COSM9213268,1,Substitution - coding silent
+424,c.1270C>T,p.R424C,COSM5515247,2,Substitution - Missense
+424,c.1271G>A,p.R424H,COSM9993964,1,Substitution - Missense
+427,c.1280T>A,p.V427E,COSM10284107,1,Substitution - Missense
+430,c.1289C>T,p.S430F,COSM6953331,3,Substitution - Missense
+434,c.1301G>A,p.S434N,COSM6920747,1,Substitution - Missense
+436,c.1307C>T,p.S436F,COSM4162977,3,Substitution - Missense
+445,c.1333C>T,p.R445W,COSM750445,6,Substitution - Missense
+445,c.1334G>A,p.R445Q,COSM3358260,2,Substitution - Missense
+445,c.1334G>T,p.R445L,COSM6947357,1,Substitution - Missense
+445,c.1334_1335delinsAA,p.R445Q,COSM10001551,1,Substitution - Missense
+445,c.?,p.R445W,COSM9498390,1,Substitution - Missense
+447,c.1339T>C,p.S447P,COSM4753127,1,Substitution - Missense
+447,c.1340C>T,p.S447L,COSM6964469,1,Substitution - Missense
+448,c.1343G>A,p.R448Q,COSM3395319,1,Substitution - Missense
+448,c.1343G>T,p.R448L,COSM3648870,2,Substitution - Missense
+450,c.1350C>T,p.S450=,COSM9688794,1,Substitution - coding silent
+451,c.1352C>G,p.S451C,COSM1580903,1,Substitution - Missense
+451,c.1352C>T,p.S451F,COSM8060117,1,Substitution - Missense
+451,c.1353C>A,p.S451=,COSM7856387,1,Substitution - coding silent
+452,c.1355G>A,p.S452N,COSM9964978,1,Substitution - Missense
+454,c.1361C>A,p.T454N,COSM6921642,2,Substitution - Missense
+455,c.1363C>T,p.P455S,COSM9691385,1,Substitution - Missense
+456,c.1366A>G,p.M456V,COSM311187,2,Substitution - Missense
+456,c.1368G>A,p.M456I,COSM10175914,1,Substitution - Missense
+456,c.1368G>T,p.M456I,COSM6853419,1,Substitution - Missense
+456,c.?,p.M456I,COSM7335645,1,Substitution - Missense
+459,c.1375G>C,p.G459R,COSM7347807,1,Substitution - Missense
+460,c.1380C>T,p.V460=,COSM82141,1,Substitution - coding silent
+461,c.1382C>T,p.S461F,COSM3648865,1,Substitution - Missense
+462,c.1384G>C,p.E462Q,COSM5987337,1,Substitution - Missense
+464,c.1392G>A,p.E464=,COSM3648860,1,Substitution - coding silent
+466,c.1397C>T,p.P466L,COSM8121316,2,Substitution - Missense
+466,c.1398C>T,p.P466=,COSM10526899,1,Substitution - coding silent
+467,c.1399G>A,p.E467K,COSM4388328,6,Substitution - Missense
+470,c.1408C>T,p.R470C,COSM3900020,3,Substitution - Missense
+470,c.1409G>C,p.R470P,COSM486439,1,Substitution - Missense
+470,c.1409G>T,p.R470L,COSM5952256,1,Substitution - Missense
+471,c.1413G>A,p.W471*,COSM5738321,1,Substitution - Nonsense
+473,c.1418T>A,p.L473Q,COSM6949587,1,Substitution - Missense
+475,c.1423C>T,p.R475W,COSM3900015,2,Substitution - Missense
+475,c.1424G>A,p.R475Q,COSM3648855,3,Substitution - Missense
+479,c.1437C>A,p.V479=,COSM3432409,2,Substitution - coding silent
+483,c.1448C>T,p.P483L,COSM3648850,3,Substitution - Missense
+485,c.1454G>C,p.G485A,COSM1314030,1,Substitution - Missense
+485,c.1454G>T,p.G485V,COSM6848078,1,Substitution - Missense
+486,c.1456G>A,p.E486K,COSM9928447,1,Substitution - Missense
+488,c.1464C>T,p.C488=,COSM3900010,3,Substitution - coding silent
+491,c.1473G>A,p.Q491=,COSM6663659,1,Substitution - coding silent
+491,c.1473G>T,p.Q491H,COSM9997575,1,Substitution - Missense
+492,c.1474G>T,p.V492L,COSM6923352,1,Substitution - Missense
+494,c.1482G>C,p.L494F,COSM9571831,1,Substitution - Missense
+495,c.1484C>T,p.A495V,COSM3900005,1,Substitution - Missense
+498,c.1494C>T,p.I498=,COSM454529,3,Substitution - coding silent
+500,c.1499T>G,p.L500R,COSM8561899,1,Substitution - Missense
+502,c.1506G>T,p.K502N,COSM2960449,1,Substitution - Missense
+506,c.1516A>T,p.N506Y,COSM9581187,1,Substitution - Missense
+507,c.1519C>T,p.R507C,COSM6439722,3,Substitution - Missense
+507,c.1520G>A,p.R507H,COSM9994908,1,Substitution - Missense
+509,c.1525A>T,p.T509S,COSM9621838,1,Substitution - Missense
+511,c.1531G>A,p.V511M,COSM6191517,1,Substitution - Missense
+517,c.1549A>T,p.K517*,COSM7339422,1,Substitution - Nonsense
+518,c.1553C>T,p.S518L,COSM6958995,1,Substitution - Missense
+518,c.1554G>A,p.S518=,COSM7260653,2,Substitution - coding silent
+519,c.1557C>T,p.D519=,COSM2960445,4,Substitution - coding silent
+520,c.1558G>A,p.A520T,COSM6933112,1,Substitution - Missense
+520,c.1558G>T,p.A520S,COSM7502448,2,Substitution - Missense
+521,c.1563A>G,p.T521=,COSM6113437,1,Substitution - coding silent
+523,c.1569A>G,p.K523=,COSM10013720,1,Substitution - coding silent
+524,c.1570G>A,p.D524N,COSM10341342,1,Substitution - Missense
+526,c.1576T>C,p.S526P,COSM9216630,1,Substitution - Missense
+528,c.1583T>C,p.L528P,COSM10130133,1,Substitution - Missense
+530,c.1590A>G,p.S530=,COSM7260637,1,Substitution - coding silent
+532,c.1596G>T,p.M532I,COSM4753122,1,Substitution - Missense
+534,c.1601T>C,p.M534T,COSM8486266,1,Substitution - Missense
+535,c.1605G>T,p.M535I,COSM6945234,1,Substitution - Missense
+537,c.1611G>T,p.M537I,COSM5702568,1,Substitution - Missense
+538,c.1613T>C,p.I538T,COSM1456917,2,Substitution - Missense
+539,c.1615G>A,p.G539R,COSM6663627,1,Substitution - Missense
+542,c.1625del,p.K542Rfs*90,COSM6974957,1,Deletion - Frameshift
+542,c.1626G>T,p.K542N,COSM6915611,1,Substitution - Missense
+544,c.1631T>C,p.I544T,COSM6937767,1,Substitution - Missense
+544,c.1631T>G,p.I544S,COSM9326397,1,Substitution - Missense
+546,c.1636A>G,p.N546D,COSM3900000,5,Substitution - Missense
+546,c.1638C>A,p.N546K,COSM19176,32,Substitution - Missense
+546,c.1638C>G,p.N546K,COSM302229,14,Substitution - Missense
+546,c.?,p.N546K,COSM3734715,18,Substitution - Missense
+547,c.1640T>C,p.L547P,COSM1580899,1,Substitution - Missense
+548,c.1643T>G,p.L548R,COSM6472579,1,Substitution - Missense
+552,c.1655C>T,p.T552M,COSM7285493,2,Substitution - Missense
+552,c.1656G>A,p.T552=,COSM4684547,2,Substitution - coding silent
+553,c.1659G>T,p.Q553H,COSM8895299,1,Substitution - Missense
+554,c.1660G>C,p.D554H,COSM6954381,3,Substitution - Missense
+556,c.1666C>T,p.P556S,COSM9797568,2,Substitution - Missense
+556,c.1667C>T,p.P556L,COSM8141161,1,Substitution - Missense
+556,c.1668C>T,p.P556=,COSM8140400,1,Substitution - coding silent
+560,c.1680C>A,p.I560=,COSM7921869,1,Substitution - coding silent
+560,c.1680C>T,p.I560=,COSM297876,2,Substitution - coding silent
+561,c.1681G>A,p.V561M,COSM6840954,1,Substitution - Missense
+562,c.1684G>T,p.E562*,COSM4631307,1,Substitution - Nonsense
+565,c.1694C>T,p.S565F,COSM3648845,1,Substitution - Missense
+565,c.1695C>T,p.S565=,COSM10213376,1,Substitution - coding silent
+566,c.1697A>G,p.K566R,COSM94314,1,Substitution - Missense
+568,c.1704C>G,p.N568K,COSM6396526,2,Substitution - Missense
+569,c.1705C>T,p.L569=,COSM10526894,1,Substitution - coding silent
+570,c.1708C>T,p.R570W,COSM6402883,2,Substitution - Missense
+570,c.1709G>C,p.R570P,COSM4753117,1,Substitution - Missense
+570,c.1709G>T,p.R570L,COSM6980385,3,Substitution - Missense
+571,c.1711G>T,p.E571*,COSM6417397,2,Substitution - Nonsense
+574,c.1722G>T,p.Q574H,COSM8393135,1,Substitution - Missense
+575,c.1724C>T,p.A575V,COSM6913876,1,Substitution - Missense
+576,c.1726C>T,p.R576W,COSM19177,2,Substitution - Missense
+576,c.1726dup,p.R576Pfs*80,COSM4423959,1,Insertion - Frameshift
+576,c.1727G>A,p.R576Q,COSM9232138,2,Substitution - Missense
+576,c.1728G>A,p.R576=,COSM9744197,1,Substitution - coding silent
+577,c.1729A>T,p.R577W,COSM6364066,2,Substitution - Missense
+578,c.1734C>A,p.P578=,COSM8187259,1,Substitution - coding silent
+583,c.1749C>A,p.Y583*,COSM5503363,1,Substitution - Nonsense
+586,c.1756_1757del,p.N586Pfs*69,COSM2150456,1,Deletion - Frameshift
+586,c.1758C>T,p.N586=,COSM3834675,1,Substitution - coding silent
+587,c.1760C>A,p.P587H,COSM8031520,1,Substitution - Missense
+588,c.1763G>C,p.S588T,COSM3396829,2,Substitution - Missense
+588,c.1764_1765delinsAT,p.S588_H589delinsRY,COSM9992011,1,Substitution - Missense
+590,c.1769A>C,p.N590T,COSM9413129,1,Substitution - Missense
+591,c.1772C>A,p.P591Q,COSM4684542,1,Substitution - Missense
+592,c.1774G>A,p.E592K,COSM4532231,1,Substitution - Missense
+592,c.1775A>G,p.E592G,COSM2960437,2,Substitution - Missense
+594,c.1781A>G,p.Q594R,COSM9581069,1,Substitution - Missense
+596,c.1786T>A,p.S596T,COSM6854592,1,Substitution - Missense
+597,c.1790C>T,p.S597F,COSM2960433,1,Substitution - Missense
+598,c.1794G>T,p.K598N,COSM1238892,1,Substitution - Missense
+599,c.1795G>A,p.D599N,COSM7346376,1,Substitution - Missense
+602,c.1805C>T,p.S602F,COSM3648840,1,Substitution - Missense
+602,c.1806C>T,p.S602=,COSM2960429,4,Substitution - coding silent
+603,c.1809C>T,p.C603=,COSM1099633,1,Substitution - coding silent
+604,c.1810G>A,p.A604T,COSM6055879,3,Substitution - Missense
+608,c.1823C>A,p.A608D,COSM6912689,1,Substitution - Missense
+609,c.1825C>T,p.R609*,COSM10030372,1,Substitution - Nonsense
+609,c.1826G>A,p.R609Q,COSM5608747,1,Substitution - Missense
+610,c.1829G>A,p.G610D,COSM260938,1,Substitution - Missense
+611,c.1833G>A,p.M611I,COSM9292727,2,Substitution - Missense
+612,c.1834G>C,p.E612Q,COSM8705904,1,Substitution - Missense
+612,c.1835A>G,p.E612G,COSM6415673,2,Substitution - Missense
+614,c.1840C>G,p.L614V,COSM4771557,3,Substitution - Missense
+617,c.1851G>A,p.K617=,COSM6867131,1,Substitution - coding silent
+618,c.1854G>T,p.K618N,COSM9024033,1,Substitution - Missense
+622,c.1865G>A,p.R622Q,COSM10096084,1,Substitution - Missense
+627,c.1880G>T,p.R627M,COSM7368212,1,Substitution - Missense
+627,c.1881G>A,p.R627=,COSM9121247,2,Substitution - coding silent
+628,c.1881del,p.N628Mfs*4,COSM7331423,1,Deletion - Frameshift
+629,c.1885G>A,p.V629I,COSM6949602,1,Substitution - Missense
+629,c.1885G>C,p.V629L,COSM486436,1,Substitution - Missense
+633,c.1897G>A,p.E633K,COSM6937214,3,Substitution - Missense
+634,c.1902C>G,p.D634E,COSM6408293,2,Substitution - Missense
+644,c.1932C>T,p.L644=,COSM3834670,3,Substitution - coding silent
+645,c.1933G>A,p.A645T,COSM6663599,1,Substitution - Missense
+646,c.1936C>T,p.R646W,COSM5874657,3,Substitution - Missense
+646,c.1937G>A,p.R646Q,COSM10526889,1,Substitution - Missense
+646,c.1937G>T,p.R646L,COSM9954011,1,Substitution - Missense
+646,c.1937_1938delinsAA,p.R646Q,COSM4516549,1,Substitution - Missense
+646,c.?,p.R646Q,COSM9609408,1,Substitution - Missense
+647,c.1939G>A,p.D647N,COSM6113442,1,Substitution - Missense
+651,c.1952T>C,p.I651T,COSM1099630,1,Substitution - Missense
+652,c.1954G>A,p.D652N,COSM4445156,2,Substitution - Missense
+652,c.1955A>G,p.D652G,COSM6848483,5,Substitution - Missense
+654,c.1962T>A,p.Y654*,COSM1496907,1,Substitution - Nonsense
+654,c.1962T>C,p.Y654=,COSM1743346,1,Substitution - coding silent
+655,c.1964A>T,p.K655I,COSM3670393,1,Substitution - Missense
+656,c.1966A>G,p.K656E,COSM35673,31,Substitution - Missense
+656,c.1966A>T,p.K656*,COSM1755711,2,Substitution - Nonsense
+656,c.1967A>T,p.K656M,COSM4771556,1,Substitution - Missense
+656,c.1968G>C,p.K656N,COSM6578115,2,Substitution - Missense
+656,c.?,p.K656E,COSM3734716,7,Substitution - Missense
+656,c.?,p.K656M,COSM3734717,4,Substitution - Missense
+659,c.1977C>T,p.N659=,COSM4767724,2,Substitution - coding silent
+660,c.1978G>A,p.G660S,COSM5874652,1,Substitution - Missense
+661,c.1982G>A,p.R661Q,COSM6964733,3,Substitution - Missense
+664,c.1990G>A,p.V664M,COSM9976124,1,Substitution - Missense
+664,c.1990G>T,p.V664L,COSM21264,4,Substitution - Missense
+664,c.1992G>A,p.V664=,COSM1569053,2,Substitution - coding silent
+664,c.?,p.V664L,COSM3738456,2,Substitution - Missense
+665,c.1993A>G,p.K665E,COSM7517430,2,Substitution - Missense
+665,c.1994A>G,p.K665R,COSM6930817,1,Substitution - Missense
+666,c.1996T>G,p.W666G,COSM7517399,2,Substitution - Missense
+667,c.2001_2007delinsTTTTAAT,p.M667_P669delinsIFN,COSM9829027,1,Substitution - Missense
+668,c.2002G>A,p.A668T,COSM6191516,3,Substitution - Missense
+668,c.2004A>T,p.A668=,COSM327156,1,Substitution - coding silent
+670,c.2007_2020del,p.E670Pfs*8,COSM6862012,1,Deletion - Frameshift
+670,c.2008G>T,p.E670*,COSM8722586,1,Substitution - Nonsense
+670,c.2009A>G,p.E670G,COSM3899995,1,Substitution - Missense
+670,c.2010_2011delinsTA,p.E670_A671delinsDT,COSM9829022,1,Substitution - Missense
+672,c.2013_2021delinsGGCGACCAC,p.L672_D674delinsATT,COSM9829017,1,Substitution - Missense
+674,c.2021A>C,p.D674A,COSM9413127,1,Substitution - Missense
+675,c.2023_2024delinsGA,p.R675E,COSM9829012,1,Substitution - Missense
+675,c.2024G>A,p.R675Q,COSM1207083,2,Substitution - Missense
+678,c.2033C>G,p.T678S,COSM1099627,1,Substitution - Missense
+678,c.2033C>T,p.T678I,COSM9976123,1,Substitution - Missense
+684,c.2050T>G,p.W684G,COSM3834665,1,Substitution - Missense
+684,c.2052G>A,p.W684*,COSM9581216,1,Substitution - Nonsense
+685,c.2054C>T,p.S685F,COSM9514624,1,Substitution - Missense
+686,c.2058C>T,p.F686=,COSM8766723,2,Substitution - coding silent
+687,c.2059G>A,p.G687R,COSM8625965,2,Substitution - Missense
+688,c.2062del,p.V688Cfs*26,COSM6663664,1,Deletion - Frameshift
+690,c.2068C>T,p.L690=,COSM10217031,1,Substitution - coding silent
+691,c.2072G>A,p.W691*,COSM9995606,1,Substitution - Nonsense
+692,c.2076G>A,p.E692=,COSM1099624,1,Substitution - coding silent
+697,c.2091C>A,p.G697=,COSM311184,2,Substitution - coding silent
+697,c.2091C>T,p.G697=,COSM750451,4,Substitution - coding silent
+698,c.2092G>A,p.G698S,COSM3395314,1,Substitution - Missense
+699,c.2097C>T,p.S699=,COSM9808372,1,Substitution - coding silent
+702,c.2104C>A,p.P702T,COSM6930805,1,Substitution - Missense
+703,c.2107G>A,p.G703S,COSM1623990,4,Substitution - Missense
+706,c.2117T>C,p.V706A,COSM5472583,1,Substitution - Missense
+707,c.2119G>C,p.E707Q,COSM5781107,1,Substitution - Missense
+708,c.2122G>A,p.E708K,COSM6923958,1,Substitution - Missense
+708,c.2124A>C,p.E708D,COSM6951648,1,Substitution - Missense
+711,c.2131A>G,p.K711E,COSM6912533,1,Substitution - Missense
+711,c.2132A>G,p.K711R,COSM4993069,1,Substitution - Missense
+713,c.2139G>A,p.L713=,COSM422132,1,Substitution - coding silent
+715,c.2143G>T,p.E715*,COSM7412626,1,Substitution - Nonsense
+717,c.2149C>T,p.H717Y,COSM6928365,2,Substitution - Missense
+717,c.2151C>T,p.H717=,COSM10182724,1,Substitution - coding silent
+718,c.2152C>A,p.R718S,COSM6933848,3,Substitution - Missense
+718,c.2152C>T,p.R718C,COSM7504565,3,Substitution - Missense
+718,c.2153G>A,p.R718H,COSM6047850,1,Substitution - Missense
+719,c.2156T>C,p.M719T,COSM6191515,1,Substitution - Missense
+722,c.2165C>T,p.P722L,COSM8218635,1,Substitution - Missense
+722,c.2166C>T,p.P722=,COSM5976838,1,Substitution - coding silent
+728,c.2182G>A,p.E728K,COSM5542922,1,Substitution - Missense
+728,c.2184G>C,p.E728D,COSM6958490,1,Substitution - Missense
+732,c.2196_2205del,p.M732Ifs*26,COSM6564083,1,Deletion - Frameshift
+734,c.2200C>T,p.R734W,COSM3899991,4,Substitution - Missense
+734,c.2201G>A,p.R734Q,COSM5063185,2,Substitution - Missense
+734,c.2201G>T,p.R734L,COSM7857781,3,Substitution - Missense
+735,c.2203G>A,p.D735N,COSM2960411,1,Substitution - Missense
+735,c.2203G>C,p.D735H,COSM7650690,1,Substitution - Missense
+735,c.2204A>G,p.D735G,COSM10269766,1,Substitution - Missense
+738,c.2212C>T,p.H738Y,COSM6942765,1,Substitution - Missense
+740,c.2218G>A,p.V740M,COSM3899987,1,Substitution - Missense
+741,c.2222C>A,p.P741H,COSM1099622,1,Substitution - Missense
+743,c.2227C>A,p.Q743K,COSM9121252,1,Substitution - Missense
+743,c.2229G>T,p.Q743H,COSM7959049,1,Substitution - Missense
+749,c.2245C>T,p.Q749*,COSM1645317,1,Substitution - Nonsense
+750,c.2250G>T,p.L750=,COSM7226548,1,Substitution - coding silent
+751,c.2252T>C,p.V751A,COSM2960407,2,Substitution - Missense
+753,c.2259C>A,p.D753E,COSM7342961,1,Substitution - Missense
+754,c.2262G>A,p.L754=,COSM5019861,1,Substitution - coding silent
+755,c.2264A>C,p.D755A,COSM7614590,2,Substitution - Missense
+755,c.2265C>T,p.D755=,COSM3899982,1,Substitution - coding silent
+757,c.2271C>T,p.I757=,COSM454526,2,Substitution - coding silent
+759,c.2275G>C,p.A759P,COSM8581840,1,Substitution - Missense
+760,c.2278T>G,p.L760V,COSM6947612,1,Substitution - Missense
+765,c.2295G>A,p.E765=,COSM3925254,1,Substitution - coding silent
+769,c.2305C>T,p.L769=,COSM10526884,1,Substitution - coding silent
+772,c.2314C>T,p.P772S,COSM6005537,5,Substitution - Missense
+773,c.2318T>G,p.L773R,COSM10120850,1,Substitution - Missense
+778,c.2334C>G,p.P778=,COSM4588092,1,Substitution - coding silent
+779,c.2337C>T,p.S779=,COSM10389856,1,Substitution - coding silent
+781,c.2343C>T,p.P781=,COSM6663621,1,Substitution - coding silent
+782,c.2344G>A,p.D782N,COSM5819489,1,Substitution - Missense
+782,c.?,p.D782E,COSM9516392,1,Substitution - Missense
+784,c.2350C>T,p.R784W,COSM6948708,2,Substitution - Missense
+784,c.2351G>A,p.R784Q,COSM1099619,2,Substitution - Missense
+789,c.2366C>G,p.S789C,COSM8729137,1,Substitution - Missense
+790,c.2368T>C,p.S790P,COSM9121268,1,Substitution - Missense
+791,c.2372G>A,p.G791E,COSM6976631,1,Substitution - Missense
+792,c.2374G>T,p.E792*,COSM8086954,1,Substitution - Nonsense
+794,c.2381C>T,p.S794F,COSM6516100,2,Substitution - Missense
+795,c.2383G>A,p.V795I,COSM1456909,4,Substitution - Missense
+798,c.2392C>T,p.H798Y,COSM7108012,1,Substitution - Missense
+800,c.2399C>T,p.P800L,COSM1187520,3,Substitution - Missense
+801,c.2402T>A,p.L801Q,COSM9992914,1,Substitution - Missense
+802,c.2406C>T,p.P802=,COSM4632479,1,Substitution - coding silent
+803,c.2407G>A,p.E803K,COSM3834660,3,Substitution - Missense
+804,c.2410G>A,p.E804K,COSM8456742,1,Substitution - Missense
+809,c.2425C>T,p.R809*,COSM6912323,3,Substitution - Nonsense
+809,c.2426G>A,p.R809Q,COSM4777373,2,Substitution - Missense
+810,c.2429A>C,p.H810P,COSM9413128,1,Substitution - Missense
+814,c.2441T>G,p.L814R,COSM6955063,1,Substitution - Missense
+817,c.2451C>T,p.G817=,COSM2960395,1,Substitution - coding silent
+818,c.2452G>A,p.G818R,COSM1099616,2,Substitution - Missense
+818,c.?,p.G818R,COSM7335697,2,Substitution - Missense
+819,c.2455C>A,p.L819I,COSM6965540,1,Substitution - Missense
+819,c.2455C>G,p.L819V,COSM9992049,1,Substitution - Missense
+819,c.2457C>G,p.L819=,COSM8600428,1,Substitution - coding silent
+821,c.2461C>T,p.R821C,COSM7205105,1,Substitution - Missense
+822,c.2462dup,p.R822Pfs*164,COSM9988378,1,Insertion - Frameshift
+822,c.2464C>T,p.R822C,COSM9012114,1,Substitution - Missense
+822,c.2465G>A,p.R822H,COSM4644862,1,Substitution - Missense
+,c.-109G>T,p.?,COSN32901021,1,Unknown
+,c.-137C>A,p.?,COSN26586995,1,Unknown
+,c.-150A>G,p.?,COSN2514386,1,Unknown
+,c.-2G>A,p.?,COSN28187976,1,Unknown
+,c.-306C>T,p.?,COSN32901022,1,Unknown
+,c.-317C>T,p.?,COSN32901023,1,Unknown
+,c.-35G>A,p.?,COSN28164431,1,Unknown
+,c.-3G>C,p.?,COSM123165,1,Unknown
+,c.-3G>T,p.?,COSN30478298,1,Unknown
+,c.-41G>A,p.?,COSN28163304,1,Unknown
+,c.-41G>C,p.?,COSN30519151,1,Unknown
+,c.-43G>T,p.?,COSN28164432,3,Unknown
+,c.-65A>T,p.?,COSN28163812,1,Unknown
+,c.-67C>G,p.?,COSN32285957,1,Unknown
+,c.-709G>A,p.?,COSN32901024,1,Unknown
+,c.-74G>T,p.?,COSN28164015,1,Unknown
+,c.-76A>G,p.?,COSN20985729,1,Unknown
+,c.-798G>A,p.?,COSN32901025,1,Unknown
+,c.-79G>C,p.?,COSN15656629,1,Unknown
+,c.-839G>A,p.?,COSN32901026,1,Unknown
+,c.-865C>A,p.?,COSN22299377,1,Unknown
+,c.-88-1025T>A,p.?,COSN16103439,1,Unknown
+,c.-88-11C>T,p.?,COSN32068944,2,Unknown
+,c.-88-1260A>G,p.?,COSN31856632,1,Unknown
+,c.-88-12del,p.?,COSN30715861,1,Unknown
+,c.-88-132A>G,p.?,COSN30728477,1,Unknown
+,c.-88-1342C>T,p.?,COSN32901010,1,Unknown
+,c.-88-1363C>T,p.?,COSN32901011,1,Unknown
+,c.-88-1386G>A,p.?,COSN28422276,1,Unknown
+,c.-88-1417dup,p.?,COSN29590834,1,Unknown
+,c.-88-15T>G,p.?,COSN32712419,1,Unknown
+,c.-88-1698T>C,p.?,COSN21241781,1,Unknown
+,c.-88-1763C>T,p.?,COSN21643493,1,Unknown
+,c.-88-1854C>T,p.?,COSN14585630,1,Unknown
+,c.-88-1855C>T,p.?,COSN14587056,1,Unknown
+,c.-88-1886T>C,p.?,COSN17674903,1,Unknown
+,c.-88-1909C>T,p.?,COSN14584045,1,Unknown
+,c.-88-2073T>G,p.?,COSN21126165,1,Unknown
+,c.-88-2424T>G,p.?,COSN17932149,1,Unknown
+,c.-88-2425C>T,p.?,COSN25265908,1,Unknown
+,c.-88-270C>T,p.?,COSN8856384,2,Unknown
+,c.-88-2A>G,p.?,COSN24307809,1,Unknown
+,c.-88-3275C>A,p.?,COSN5235400,2,Unknown
+,c.-88-3443C>T,p.?,COSN30629536,1,Unknown
+,c.-88-3466G>T,p.?,COSN15660194,1,Unknown
+,c.-88-3498C>T,p.?,COSN22152439,1,Unknown
+,c.-88-3528del,p.?,COSN22851310,1,Unknown
+,c.-88-3569G>C,p.?,COSN28163275,1,Unknown
+,c.-88-3570G>T,p.?,COSN28164491,1,Unknown
+,c.-88-3573G>T,p.?,COSN20043767,1,Unknown
+,c.-88-3603G>A,p.?,COSN32916090,1,Unknown
+,c.-88-3723A>C,p.?,COSN22058015,1,Unknown
+,c.-88-3728C>T,p.?,COSN32901012,1,Unknown
+,c.-88-4206C>T,p.?,COSN8083492,1,Unknown
+,c.-88-4357G>A,p.?,COSN16007571,1,Unknown
+,c.-88-4459G>A,p.?,COSN8856385,1,Unknown
+,c.-88-4515G>A,p.?,COSN20840159,1,Unknown
+,c.-88-4798G>A,p.?,COSN8083493,1,Unknown
+,c.-88-4829C>A,p.?,COSN9634133,1,Unknown
+,c.-88-4842G>A,p.?,COSN29412001,1,Unknown
+,c.-88-4966G>A,p.?,COSN32242825,2,Unknown
+,c.-88-4979T>A,p.?,COSN17583764,2,Unknown
+,c.-88-5169C>T,p.?,COSN23833819,1,Unknown
+,c.-88-5209T>C,p.?,COSN8083494,1,Unknown
+,c.-88-606G>C,p.?,COSN16296951,1,Unknown
+,c.-88-60T>A,p.?,COSN16489412,1,Unknown
+,c.-88-680A>G,p.?,COSN21625345,1,Unknown
+,c.-88-6C>T,p.?,COSN32069083,1,Unknown
+,c.-88-84C>T,p.?,COSN6695014,1,Unknown
+,c.-89+1086del,p.?,COSN23707880,1,Unknown
+,c.-89+1314C>T,p.?,COSN32901020,1,Unknown
+,c.-89+1391C>G,p.?,COSN7671675,1,Unknown
+,c.-89+1403G>T,p.?,COSN32901019,1,Unknown
+,c.-89+1427_-89+1445delinsCAGC,p.?,COSN32285847,1,Unknown
+,c.-89+1530G>A,p.?,COSN28441989,1,Unknown
+,c.-89+1913T>C,p.?,COSN32020064,1,Unknown
+,c.-89+196C>T,p.?,COSN32711410,1,Unknown
+,c.-89+2114C>T,p.?,COSN1364574,1,Unknown
+,c.-89+2188C>A,p.?,COSN32901018,1,Unknown
+,c.-89+2208G>A,p.?,COSN25826716,1,Unknown
+,c.-89+2224C>A,p.?,COSN32901017,1,Unknown
+,c.-89+2272C>T,p.?,COSN32901016,1,Unknown
+,c.-89+2366G>A,p.?,COSN32901015,1,Unknown
+,c.-89+2524C>G,p.?,COSN22305360,2,Unknown
+,c.-89+2525G>A,p.?,COSN19391717,1,Unknown
+,c.-89+2631C>T,p.?,COSN32475959,1,Unknown
+,c.-89+2669C>T,p.?,COSN4880110,1,Unknown
+,c.-89+3121A>G,p.?,COSN27630403,1,Unknown
+,c.-89+3484C>A,p.?,COSN8577017,1,Unknown
+,c.-89+4010dup,p.?,COSN29075466,1,Unknown
+,c.-89+4287A>G,p.?,COSN6695015,1,Unknown
+,c.-89+4439G>A,p.?,COSN25135758,1,Unknown
+,c.-89+4459G>A,p.?,COSN26456154,1,Unknown
+,c.-89+4507A>G,p.?,COSN19487086,1,Unknown
+,c.-89+4741C>T,p.?,COSN25110368,1,Unknown
+,c.-89+4800G>C,p.?,COSN22248093,1,Unknown
+,c.-89+4824A>G,p.?,COSN32901014,1,Unknown
+,c.-89+4833G>A,p.?,COSN32901013,1,Unknown
+,c.-89+4998del,p.?,COSN22875906,1,Unknown
+,c.-89+5114C>T,p.?,COSN9634134,1,Unknown
+,c.-89+5218G>T,p.?,COSN4939911,2,Unknown
+,c.-89+693C>T,p.?,COSN23820313,1,Unknown
+,c.-89+78C>T,p.?,COSN22957154,1,Unknown
+,c.-8G>T,p.?,COSN30448272,1,Unknown
+,c.91+10197G>T,p.?,COSN26899421,1,Unknown
+,c.91+10246_91+10257del,p.?,COSN23810380,1,Unknown
+,c.91+102G>T,p.?,COSN2275104,1,Unknown
+,c.91+10510G>T,p.?,COSN22382957,1,Unknown
+,c.91+1062G>A,p.?,COSN8083491,1,Unknown
+,c.91+11065T>C,p.?,COSN2275101,1,Unknown
+,c.91+11242A>T,p.?,COSN16546042,1,Unknown
+,c.91+11300A>T,p.?,COSN15998815,1,Unknown
+,c.91+11336C>T,p.?,COSN9459643,1,Unknown
+,c.91+11585G>A,p.?,COSN5681284,1,Unknown
+,c.91+12332T>C,p.?,COSN22607680,1,Unknown
+,c.91+12501_91+12502dup,p.?,COSN27667885,1,Unknown
+,c.91+12783C>A,p.?,COSN20535507,2,Unknown
+,c.91+12855T>G,p.?,COSN20356362,1,Unknown
+,c.91+12953G>A,p.?,COSN6518612,2,Unknown
+,c.91+12964A>C,p.?,COSN25943520,2,Unknown
+,c.91+12968A>C,p.?,COSN1364573,1,Unknown
+,c.91+13108A>G,p.?,COSN9634132,1,Unknown
+,c.91+1324G>T,p.?,COSN20610273,1,Unknown
+,c.91+13387G>A,p.?,COSN6695012,1,Unknown
+,c.91+13417G>T,p.?,COSN17241073,1,Unknown
+,c.91+145_91+155del,p.?,COSN22833392,1,Unknown
+,c.91+1502C>A,p.?,COSN27028492,1,Unknown
+,c.91+1663G>A,p.?,COSN4880109,1,Unknown
+,c.91+1899T>A,p.?,COSN17983487,1,Unknown
+,c.91+1979A>G,p.?,COSN24020161,1,Unknown
+,c.91+1982C>T,p.?,COSN16573867,1,Unknown
+,c.91+2323G>A,p.?,COSN22286318,2,Unknown
+,c.91+3519T>A,p.?,COSN9262061,1,Unknown
+,c.91+3633G>C,p.?,COSN16043490,1,Unknown
+,c.91+3782A>G,p.?,COSN6695013,1,Unknown
+,c.91+3904del,p.?,COSN22890333,1,Unknown
+,c.91+4372A>T,p.?,COSN8083490,2,Unknown
+,c.91+43G>A,p.?,COSN17038953,1,Unknown
+,c.91+4548G>C,p.?,COSN20493584,1,Unknown
+,c.91+4557T>C,p.?,COSN2275102,1,Unknown
+,c.91+4581C>T,p.?,COSN23717166,1,Unknown
+,c.91+4737A>G,p.?,COSN8083489,1,Unknown
+,c.91+5152G>C,p.?,COSN19085125,1,Unknown
+,c.91+5208C>T,p.?,COSN16521421,1,Unknown
+,c.91+5328C>T,p.?,COSN5111910,1,Unknown
+,c.91+568G>T,p.?,COSN2275103,1,Unknown
+,c.91+6190C>A,p.?,COSN9459644,1,Unknown
+,c.91+6197C>G,p.?,COSN15312271,1,Unknown
+,c.91+6475C>T,p.?,COSN20493583,1,Unknown
+,c.91+6752T>A,p.?,COSN9262060,1,Unknown
+,c.91+6869G>C,p.?,COSN22753822,1,Unknown
+,c.91+7179G>C,p.?,COSN19276683,1,Unknown
+,c.91+7364C>A,p.?,COSN20813345,1,Unknown
+,c.91+7568C>T,p.?,COSN16310791,1,Unknown
+,c.91+7708C>A,p.?,COSN21371362,1,Unknown
+,c.91+7854G>A,p.?,COSN24524964,1,Unknown
+,c.91+7991A>T,p.?,COSN24896141,1,Unknown
+,c.91+8027A>G,p.?,COSN8083488,1,Unknown
+,c.91+8082T>C,p.?,COSN25641067,1,Unknown
+,c.91+8331G>A,p.?,COSN20357957,1,Unknown
+,c.91+8373A>G,p.?,COSN21850695,2,Unknown
+,c.91+8631G>A,p.?,COSN32710486,1,Unknown
+,c.91+8678C>G,p.?,COSN20735250,1,Unknown
+,c.91+941G>A,p.?,COSN20128657,1,Unknown
+,c.91+9835C>T,p.?,COSN22355544,1,Unknown
+,c.92-10280G>A,p.?,COSN19703741,1,Unknown
+,c.92-10281C>T,p.?,COSN30742535,1,Unknown
+,c.92-10285G>A,p.?,COSN31785177,1,Unknown
+,c.92-10312del,p.?,COSN32858115,1,Unknown
+,c.92-10323G>T,p.?,COSN25067487,1,Unknown
+,c.92-10356T>C,p.?,COSM9993717,1,Unknown
+,c.92-10357G>T,p.?,COSM8795096,1,Unknown
+,c.92-10360A>G,p.?,COSM8260263,1,Unknown
+,c.92-10361G>A,p.?,COSM5632457,3,Unknown
+,c.92-10363C>G,p.?,COSM7448366,2,Unknown
+,c.92-10370C>T,p.?,COSM8129400,1,Unknown
+,c.92-10375G>T,p.?,COSM7848951,1,Unknown
+,c.92-10377C>T,p.?,COSM7558431,1,Unknown
+,c.92-10378G>T,p.?,COSM9994186,1,Unknown
+,c.92-10379G>T,p.?,COSM10177503,1,Unknown
+,c.92-10400G>A,p.?,COSM10507334,1,Unknown
+,c.92-10401C>T,p.?,COSM2960592,2,Unknown
+,c.92-10408G>A,p.?,COSM9514534,1,Unknown
+,c.92-10409C>T,p.?,COSM9802987,1,Unknown
+,c.92-10477G>A,p.?,COSN14342208,1,Unknown
+,c.92-10516C>G,p.?,COSN32592704,1,Unknown
+,c.92-10535C>G,p.?,COSN8518893,2,Unknown
+,c.92-1053A>G,p.?,COSN14718094,1,Unknown
+,c.92-10607G>A,p.?,COSN23303292,1,Unknown
+,c.92-10628del,p.?,COSN27214802,6,Unknown
+,c.92-10642A>T,p.?,COSN21643492,1,Unknown
+,c.92-106G>A,p.?,COSN1364571,1,Unknown
+,c.92-10810C>T,p.?,COSN26303936,1,Unknown
+,c.92-11093G>A,p.?,COSN20641018,1,Unknown
+,c.92-11134G>C,p.?,COSN30068127,1,Unknown
+,c.92-11150C>A,p.?,COSN6600151,1,Unknown
+,c.92-11229T>G,p.?,COSN27853580,2,Unknown
+,c.92-11246C>A,p.?,COSN9262059,1,Unknown
+,c.92-1240C>T,p.?,COSN16565806,1,Unknown
+,c.92-12424_92-12415dup,p.?,COSN27213561,1,Unknown
+,c.92-12511G>A,p.?,COSN23412532,1,Unknown
+,c.92-12811G>T,p.?,COSN19154488,1,Unknown
+,c.92-12945A>C,p.?,COSN32377474,1,Unknown
+,c.92-12957G>A,p.?,COSN24126689,1,Unknown
+,c.92-13100G>A,p.?,COSN30414735,1,Unknown
+,c.92-13225G>A,p.?,COSN14971669,1,Unknown
+,c.92-13656A>T,p.?,COSN9634131,1,Unknown
+,c.92-1536G>C,p.?,COSN25149683,1,Unknown
+,c.92-1661C>T,p.?,COSN22660482,1,Unknown
+,c.92-2049C>A,p.?,COSN20886267,1,Unknown
+,c.92-2087G>C,p.?,COSN20714216,1,Unknown
+,c.92-216G>A,p.?,COSN32901001,1,Unknown
+,c.92-2462_92-2461insA,p.?,COSN18755986,1,Unknown
+,c.92-2463dup,p.?,COSN27438132,1,Unknown
+,c.92-2971del,p.?,COSN27453035,1,Unknown
+,c.92-2988A>C,p.?,COSN4880107,1,Unknown
+,c.92-3241T>C,p.?,COSN1364572,1,Unknown
+,c.92-344A>G,p.?,COSN24542694,1,Unknown
+,c.92-3451G>A,p.?,COSN16502216,1,Unknown
+,c.92-348C>T,p.?,COSN32901002,1,Unknown
+,c.92-3935G>A,p.?,COSN21156992,1,Unknown
+,c.92-4239G>T,p.?,COSN32224763,4,Unknown
+,c.92-4309G>T,p.?,COSN9634129,2,Unknown
+,c.92-4370A>G,p.?,COSN28789605,1,Unknown
+,c.92-4380C>A,p.?,COSN8518891,2,Unknown
+,c.92-4381G>A,p.?,COSN8518892,2,Unknown
+,c.92-4399T>A,p.?,COSN23979578,1,Unknown
+,c.92-4522C>T,p.?,COSN23423743,1,Unknown
+,c.92-4619G>T,p.?,COSN28637474,1,Unknown
+,c.92-464G>T,p.?,COSN32901003,1,Unknown
+,c.92-4681T>G,p.?,COSN28828162,1,Unknown
+,c.92-4828C>G,p.?,COSN8083485,2,Unknown
+,c.92-4951G>T,p.?,COSN22015770,1,Unknown
+,c.92-5211G>A,p.?,COSN9262054,1,Unknown
+,c.92-528C>T,p.?,COSN32901004,1,Unknown
+,c.92-5309G>A,p.?,COSN6695009,1,Unknown
+,c.92-5517A>C,p.?,COSN24358545,1,Unknown
+,c.92-551C>T,p.?,COSN32901005,1,Unknown
+,c.92-5550C>T,p.?,COSN9634130,1,Unknown
+,c.92-5631G>T,p.?,COSN18816301,1,Unknown
+,c.92-5867A>G,p.?,COSN27018151,1,Unknown
+,c.92-598C>T,p.?,COSN32901006,1,Unknown
+,c.92-6047G>C,p.?,COSN6695010,1,Unknown
+,c.92-612C>T,p.?,COSN32901007,2,Unknown
+,c.92-6173A>G,p.?,COSN22296406,1,Unknown
+,c.92-6331C>A,p.?,COSN29278703,1,Unknown
+,c.92-6459C>T,p.?,COSN5681281,1,Unknown
+,c.92-6608C>T,p.?,COSN8083487,1,Unknown
+,c.92-6727A>C,p.?,COSN9262055,1,Unknown
+,c.92-6770C>A,p.?,COSN9262056,1,Unknown
+,c.92-6858G>C,p.?,COSN22714536,1,Unknown
+,c.92-7042G>A,p.?,COSN23712108,1,Unknown
+,c.92-7045C>G,p.?,COSN32592703,1,Unknown
+,c.92-7251G>C,p.?,COSN4880108,1,Unknown
+,c.92-7931C>T,p.?,COSN17961214,1,Unknown
+,c.92-8110T>A,p.?,COSN5681282,1,Unknown
+,c.92-82C>T,p.?,COSN32900999,1,Unknown
+,c.92-83C>T,p.?,COSN32901000,1,Unknown
+,c.92-8762G>A,p.?,COSN9262057,1,Unknown
+,c.92-8823C>T,p.?,COSN5681283,1,Unknown
+,c.92-8839G>A,p.?,COSN21013275,1,Unknown
+,c.92-8960A>G,p.?,COSN6695011,1,Unknown
+,c.92-8980A>G,p.?,COSN24097951,1,Unknown
+,c.92-89G>A,p.?,COSN28820366,6,Unknown
+,c.92-9073A>C,p.?,COSN18001353,1,Unknown
+,c.92-9168C>A,p.?,COSN27335373,1,Unknown
+,c.92-922A>G,p.?,COSN15573757,1,Unknown
+,c.92-942G>A,p.?,COSN21835458,1,Unknown
+,c.92-9473G>T,p.?,COSN23605301,1,Unknown
+,c.92-9832A>T,p.?,COSN9262058,1,Unknown
+,c.358+15C>A,p.?,COSN7671674,1,Unknown
+,c.358+212T>A,p.?,COSN18816300,1,Unknown
+,c.358+233C>T,p.?,COSN32900997,1,Unknown
+,c.358+315A>G,p.?,COSN32291701,1,Unknown
+,c.358+348C>T,p.?,COSN32900996,1,Unknown
+,c.358+389G>C,p.?,COSN17132901,15,Unknown
+,c.358+44C>T,p.?,COSN32900998,1,Unknown
+,c.358+463C>T,p.?,COSN26404107,1,Unknown
+,c.358+4G>A,p.?,COSM9999190,1,Unknown
+,c.358+608C>T,p.?,COSN32900995,1,Unknown
+,c.359-10C>T,p.?,COSM9999764,1,Unknown
+,c.359-31G>A,p.?,COSN25054154,1,Unknown
+,c.359-366C>T,p.?,COSN9262053,1,Unknown
+,c.359-38C>G,p.?,COSN32714283,1,Unknown
+,c.359-39C>T,p.?,COSN32714284,1,Unknown
+,c.359-3T>G,p.?,COSM9278016,1,Unknown
+,c.359-404G>A,p.?,COSN20910645,1,Unknown
+,c.359-468A>G,p.?,COSN32900993,1,Unknown
+,c.359-47C>T,p.?,COSN32900992,1,Unknown
+,c.359-4A>G,p.?,COSM9995334,1,Unknown
+,c.359-582A>G,p.?,COSN32900994,1,Unknown
+,c.448+112G>T,p.?,COSN20710411,1,Unknown
+,c.448+15C>T,p.?,COSN32900991,1,Unknown
+,c.448+1G>A,p.?,COSM5066335,3,Unknown
+,c.448+3G>T,p.?,COSM7975699,1,Unknown
+,c.448+9_448+10del,p.?,COSM6212845,1,Unknown
+,c.449-119G>A,p.?,COSN26440515,1,Unknown
+,c.449-15G>A,p.?,COSN26671426,1,Unknown
+,c.449-25G>C,p.?,COSN31764505,1,Unknown
+,c.449-49dup,p.?,COSN27936050,1,Unknown
+,c.449-8C>A,p.?,COSM7418983,1,Unknown
+,c.449-9C>G,p.?,COSM9798927,2,Unknown
+,c.449-9C>T,p.?,COSM9800302,1,Unknown
+,c.621+22A>G,p.?,COSN24311296,1,Unknown
+,c.621+3A>G,p.?,COSM9938493,1,Unknown
+,c.621+400G>A,p.?,COSN28418753,1,Unknown
+,c.621+50G>A,p.?,COSN20253312,1,Unknown
+,c.621+62C>T,p.?,COSN32712840,1,Unknown
+,c.621+670A>T,p.?,COSN21120581,1,Unknown
+,c.621+831_621+832del,p.?,COSN17137499,7,Unknown
+,c.622-111T>A,p.?,COSN21963707,1,Unknown
+,c.622-227G>A,p.?,COSN5681280,1,Unknown
+,c.622-248G>A,p.?,COSN17133040,10,Unknown
+,c.622-2A>C,p.?,COSM6960859,1,Unknown
+,c.622-35G>C,p.?,COSN21572151,1,Unknown
+,c.622-391A>G,p.?,COSN27907235,1,Unknown
+,c.622-8C>T,p.?,COSM2960533,1,Unknown
+,c.745+180del,p.?,COSN32265919,1,Unknown
+,c.745+602G>A,p.?,COSN21245138,1,Unknown
+,c.745+68G>T,p.?,COSN31661508,1,Unknown
+,c.745+82C>T,p.?,COSN16129390,1,Unknown
+,c.746-1G>C,p.?,COSM8774956,1,Unknown
+,c.746-22C>G,p.?,COSN30630029,1,Unknown
+,c.746-23G>A,p.?,COSN20757196,1,Unknown
+,c.746-2del,p.?,COSM9232856,1,Unknown
+,c.746-314G>T,p.?,COSN22589129,1,Unknown
+,c.746-33C>T,p.?,COSN19148557,1,Unknown
+,c.746-459T>A,p.?,COSN21641885,2,Unknown
+,c.746-72G>A,p.?,COSN24450023,1,Unknown
+,c.746-77G>A,p.?,COSN28634722,4,Unknown
+,c.746-8T>G,p.?,COSM7303571,1,Unknown
+,c.936+113C>T,p.?,COSM7245418,1,Unknown
+,c.936+1190_936+1196del,p.?,COSN18733056,1,Unknown
+,c.936+1283G>A,p.?,COSN26604211,1,Unknown
+,c.936+135T>G,p.?,COSM6198719,1,Unknown
+,c.936+217G>A,p.?,COSM1099645,1,Unknown
+,c.936+21C>T,p.?,COSM10259113,1,Unknown
+,c.936+300G>T,p.?,COSN25224229,1,Unknown
+,c.936+322G>A,p.?,COSN8577015,1,Unknown
+,c.936+369C>T,p.?,COSN19728968,1,Unknown
+,c.936+3A>G,p.?,COSM8189656,1,Unknown
+,c.936+498C>T,p.?,COSN32900990,1,Unknown
+,c.936+52G>T,p.?,COSM10336128,1,Unknown
+,c.936+531C>T,p.?,COSN32900989,1,Unknown
+,c.936+545T>C,p.?,COSN22003442,2,Unknown
+,c.936+56C>T,p.?,COSM10236435,1,Unknown
+,c.936+574C>A,p.?,COSN32900988,1,Unknown
+,c.936+574C>T,p.?,COSN32900987,1,Unknown
+,c.936+696C>T,p.?,COSN7671673,1,Unknown
+,c.936+71C>T,p.?,COSM10526919,1,Unknown
+,c.936+73G>C,p.?,COSM10181173,1,Unknown
+,c.936+786G>A,p.?,COSN20173682,1,Unknown
+,c.936+825del,p.?,COSN22865780,1,Unknown
+,c.936+846dup,p.?,COSN28914135,2,Unknown
+,c.936+93_936+94delinsTT,p.?,COSM4445988,1,Unknown
+,c.936+961G>A,p.?,COSN24910214,1,Unknown
+,c.937-1023G>A,p.?,COSN32714282,1,Unknown
+,c.937-1055C>T,p.?,COSN30698614,1,Unknown
+,c.937-1084G>T,p.?,COSM8254560,1,Unknown
+,c.937-1090G>T,p.?,COSM8767603,1,Unknown
+,c.937-1098G>C,p.?,COSM8742269,1,Unknown
+,c.937-1100C>A,p.?,COSM7864101,1,Unknown
+,c.937-1112G>C,p.?,COSM7479226,1,Unknown
+,c.937-1128C>A,p.?,COSM8453483,1,Unknown
+,c.937-1145C>T,p.?,COSM9121267,1,Unknown
+,c.937-1176C>T,p.?,COSM8358563,1,Unknown
+,c.937-1182C>A,p.?,COSM6322941,1,Unknown
+,c.937-1196C>A,p.?,COSM8003188,1,Unknown
+,c.937-1199G>A,p.?,COSM8422678,1,Unknown
+,c.937-1208G>A,p.?,COSM6663610,1,Unknown
+,c.937-1209C>T,p.?,COSM6663626,3,Unknown
+,c.937-1210G>T,p.?,COSM7842906,1,Unknown
+,c.937-1213G>A,p.?,COSM10049382,1,Unknown
+,c.937-1214G>T,p.?,COSM7892528,1,Unknown
+,c.937-1229G>A,p.?,COSM10429185,1,Unknown
+,c.937-130G>C,p.?,COSN9262052,1,Unknown
+,c.937-14G>A,p.?,COSN26584166,2,Unknown
+,c.937-399C>T,p.?,COSN24801808,1,Unknown
+,c.937-569G>A,p.?,COSN16043388,1,Unknown
+,c.937-56C>T,p.?,COSN32900982,1,Unknown
+,c.937-58G>A,p.?,COSN26440225,1,Unknown
+,c.937-59C>T,p.?,COSN17147063,2,Unknown
+,c.937-62C>T,p.?,COSN32900983,1,Unknown
+,c.937-69C>T,p.?,COSN32900984,1,Unknown
+,c.937-80C>G,p.?,COSN32859305,1,Unknown
+,c.937-831G>A,p.?,COSN32900986,1,Unknown
+,c.937-841C>T,p.?,COSN23499361,1,Unknown
+,c.937-89C>T,p.?,COSN32900985,1,Unknown
+,c.1081+131C>T,p.?,COSN32770609,1,Unknown
+,c.1081+244C>T,p.?,COSN19115935,1,Unknown
+,c.1081+340C>T,p.?,COSN15904254,1,Unknown
+,c.1081+38C>T,p.?,COSN30666131,1,Unknown
+,c.1081+43C>T,p.?,COSN26976394,1,Unknown
+,c.1081+46G>T,p.?,COSN20054887,1,Unknown
+,c.1081+49C>T,p.?,COSN20067237,1,Unknown
+,c.1081+55del,p.?,COSN18733055,1,Unknown
+,c.1081+761C>T,p.?,COSN6695008,1,Unknown
+,c.1081+84_1081+85del,p.?,COSN30732274,1,Unknown
+,c.1081+96A>T,p.?,COSN32900981,1,Unknown
+,c.1082-109C>T,p.?,COSN32900976,1,Unknown
+,c.1082-110C>T,p.?,COSN32900977,2,Unknown
+,c.1082-169T>C,p.?,COSN32900979,1,Unknown
+,c.1082-324C>T,p.?,COSN32900980,1,Unknown
+,c.1082-469C>A,p.?,COSN22729159,1,Unknown
+,c.1082-69C>T,p.?,COSN32712839,1,Unknown
+,c.1082-901C>T,p.?,COSN8083483,1,Unknown
+,c.1082-99C>T,p.?,COSN32900975,1,Unknown
+,c.1284+1G>A,p.?,COSM7697138,1,Unknown
+,c.1284+256del,p.?,COSN17133900,3,Unknown
+,c.1284+36C>A,p.?,COSN32869219,1,Unknown
+,c.1284+4del,p.?,COSM10089416,1,Unknown
+,c.1285-216T>G,p.?,COSN32900973,1,Unknown
+,c.1285-258A>G,p.?,COSN32433728,1,Unknown
+,c.1285-300G>A,p.?,COSN32900974,1,Unknown
+,c.1285-362C>G,p.?,COSN17151703,1,Unknown
+,c.1285-43G>A,p.?,COSN30702105,1,Unknown
+,c.1285-44C>T,p.?,COSN32900972,1,Unknown
+,c.1285-45C>T,p.?,COSN32035424,1,Unknown
+,c.1285-7C>T,p.?,COSM10526904,1,Unknown
+,c.1430+21A>G,p.?,COSN19666878,1,Unknown
+,c.1430+39C>T,p.?,COSN32035302,1,Unknown
+,c.1431-6dup,p.?,COSM6663611,1,Unknown
+,c.1431-71G>C,p.?,COSN24058299,1,Unknown
+,c.1431-95A>C,p.?,COSN1364570,2,Unknown
+,c.1552+136G>A,p.?,COSN22223175,1,Unknown
+,c.1552+40C>A,p.?,COSN26583292,1,Unknown
+,c.1552+5G>C,p.?,COSM10157922,1,Unknown
+,c.1552+73A>G,p.?,COSN1364569,2,Unknown
+,c.1553-100C>T,p.?,COSN32900971,1,Unknown
+,c.1553-14C>T,p.?,COSN30584850,1,Unknown
+,c.1553-173C>A,p.?,COSN28879749,1,Unknown
+,c.1663+120C>A,p.?,COSN25707535,1,Unknown
+,c.1663+182A>G,p.?,COSN31767209,1,Unknown
+,c.1663+208T>C,p.?,COSN8083480,1,Unknown
+,c.1663+270C>T,p.?,COSN31768483,1,Unknown
+,c.1663+30C>G,p.?,COSN29461072,1,Unknown
+,c.1663+36G>A,p.?,COSN14342140,1,Unknown
+,c.1663+56G>A,p.?,COSN22211452,1,Unknown
+,c.1663+62A>C,p.?,COSN17141459,1,Unknown
+,c.1664-286C>T,p.?,COSN15938504,1,Unknown
+,c.1664-293G>A,p.?,COSN8083479,1,Unknown
+,c.1664-390_1664-389del,p.?,COSN31855157,1,Unknown
+,c.1664-48C>A,p.?,COSN26635483,1,Unknown
+,c.1664-595G>A,p.?,COSN14977040,1,Unknown
+,c.1854+20C>A,p.?,COSN28162123,1,Unknown
+,c.1854+402T>C,p.?,COSN31766861,1,Unknown
+,c.1854+436A>G,p.?,COSN31763420,4,Unknown
+,c.1854+4T>C,p.?,COSM8526713,1,Unknown
+,c.1854+68T>G,p.?,COSN29448960,1,Unknown
+,c.1855-123G>C,p.?,COSN31763418,4,Unknown
+,c.1855-15T>G,p.?,COSN32299557,1,Unknown
+,c.1855-163G>T,p.?,COSN31763419,4,Unknown
+,c.1855-1G>A,p.?,COSM4993074,1,Unknown
+,c.1855-339T>G,p.?,COSN23525215,1,Unknown
+,c.1855-395A>G,p.?,COSN31764550,2,Unknown
+,c.1977+12C>A,p.?,COSN26538272,1,Unknown
+,c.1977+37C>T,p.?,COSN32900970,1,Unknown
+,c.1977+3G>T,p.?,COSM7762916,1,Unknown
+,c.1977+60T>G,p.?,COSN7671672,1,Unknown
+,c.2048+12A>G,p.?,COSN229672,1,Unknown
+,c.2048+42G>A,p.?,COSN30677466,1,Unknown
+,c.2048+73C>A,p.?,COSN27127217,1,Unknown
+,c.2049-13C>T,p.?,COSN14342127,1,Unknown
+,c.2049-57del,p.?,COSN32299520,1,Unknown
+,c.2049-82C>T,p.?,COSN4880106,1,Unknown
+,c.2049-93C>T,p.?,COSN28856191,1,Unknown
+,c.2049-96A>G,p.?,COSN24401736,1,Unknown
+,c.2186+8C>A,p.?,COSM10000843,1,Unknown
+,c.2186+8C>T,p.?,COSM6044171,1,Unknown
+,c.2187-1G>A,p.?,COSM3648836,1,Unknown
+,c.2187-50G>C,p.?,COSN28759791,1,Unknown
+,c.2187-6C>T,p.?,COSM7342957,2,Unknown
+,c.2292+2T>C,p.?,COSM4767561,1,Unknown
+,c.2292+40_2292+57del,p.?,COSN32882074,1,Unknown
+,c.2292+46C>T,p.?,COSN30689463,1,Unknown
+,c.2293-16C>A,p.?,COSN30575437,1,Unknown
+,c.*1000C>T,p.?,COSN17864245,1,Unknown
+,c.*1025C>T,p.?,COSN32900962,1,Unknown
+,c.*1026T>C,p.?,COSN229668,1,Unknown
+,c.*1028C>T,p.?,COSN32900961,1,Unknown
+,c.*1053G>A,p.?,COSN15659950,2,Unknown
+,c.*1055C>T,p.?,COSN31596946,1,Unknown
+,c.*1150C>T,p.?,COSN229671,1,Unknown
+,c.*1176G>A,p.?,COSN229670,1,Unknown
+,c.*1192C>T,p.?,COSN28929085,1,Unknown
+,c.*1203C>T,p.?,COSN32900960,1,Unknown
+,c.*1204C>T,p.?,COSN32900959,1,Unknown
+,c.*1206G>A,p.?,COSN1364567,1,Unknown
+,c.*1272G>A,p.?,COSN32900958,1,Unknown
+,c.*1292T>G,p.?,COSN32900951,7,Unknown
+,c.*1377T>A,p.?,COSN32900950,1,Unknown
+,c.*1392C>A,p.?,COSN2275099,1,Unknown
+,c.*145G>C,p.?,COSN8518889,2,Unknown
+,c.*146C>G,p.?,COSN8518888,1,Unknown
+,c.*146C>T,p.?,COSN28773028,1,Unknown
+,c.*1480G>C,p.?,COSN32900949,1,Unknown
+,c.*1482T>A,p.?,COSN32900948,1,Unknown
+,c.*1506C>T,p.?,COSN22219071,1,Unknown
+,c.*1519T>C,p.?,COSN32900947,1,Unknown
+,c.*1536C>T,p.?,COSN14766091,1,Unknown
+,c.*1674T>G,p.?,COSN16654083,1,Unknown
+,c.*1711G>A,p.?,COSN229675,1,Unknown
+,c.*1729T>C,p.?,COSN28809593,1,Unknown
+,c.*1764A>G,p.?,COSN32206228,1,Unknown
+,c.*179C>T,p.?,COSN31583856,1,Unknown
+,c.*1833G>A,p.?,COSN32281669,1,Unknown
+,c.*1883G>A,p.?,COSN31481427,1,Unknown
+,c.*1902_*2012del,p.?,COSN22874261,1,Unknown
+,c.*1909A>G,p.?,COSN28201018,1,Unknown
+,c.*1932G>A,p.?,COSN31610059,1,Unknown
+,c.*1946A>C,p.?,COSN15195113,1,Unknown
+,c.*194T>C,p.?,COSN9634128,1,Unknown
+,c.*1977C>A,p.?,COSN30539945,1,Unknown
+,c.*1996C>T,p.?,COSN229667,1,Unknown
+,c.*200G>C,p.?,COSN30174971,1,Unknown
+,c.*2093C>T,p.?,COSN229669,1,Unknown
+,c.*2094A>G,p.?,COSN32900946,1,Unknown
+,c.*210G>C,p.?,COSN30176796,1,Unknown
+,c.*2209A>G,p.?,COSN6695007,1,Unknown
+,c.*2258T>C,p.?,COSN32062851,1,Unknown
+,c.*2320T>C,p.?,COSN1364565,1,Unknown
+,c.*2355C>T,p.?,COSN229674,1,Unknown
+,c.*2487C>T,p.?,COSN32900945,1,Unknown
+,c.*252G>A,p.?,COSN32900968,1,Unknown
+,c.*253T>C,p.?,COSN32900967,1,Unknown
+,c.*316A>C,p.?,COSN17216166,1,Unknown
+,c.*332G>A,p.?,COSN32900966,1,Unknown
+,c.*35C>T,p.?,COSN31506628,1,Unknown
+,c.*391C>T,p.?,COSN32900965,1,Unknown
+,c.*43A>G,p.?,COSN31498761,1,Unknown
+,c.*479C>T,p.?,COSN31541944,1,Unknown
+,c.*492C>A,p.?,COSN26677451,1,Unknown
+,c.*498G>T,p.?,COSN21738958,1,Unknown
+,c.*524T>C,p.?,COSN216745,2,Unknown
+,c.*539C>A,p.?,COSN26537608,1,Unknown
+,c.*568C>T,p.?,COSN31557532,1,Unknown
+,c.*606C>T,p.?,COSN32900964,1,Unknown
+,c.*635A>C,p.?,COSN32900963,1,Unknown
+,c.*63C>T,p.?,COSN31507483,1,Unknown
+,c.*701A>G,p.?,COSN17076050,1,Unknown
+,c.*706T>C,p.?,COSN31573027,1,Unknown
+,c.*723G>A,p.?,COSN31549984,1,Unknown
+,c.*742C>T,p.?,COSN229673,1,Unknown
+,c.*764A>T,p.?,COSN5681279,1,Unknown
+,c.*929A>G,p.?,COSN31573055,1,Unknown
+,c.*957C>A,p.?,COSN26553201,1,Unknown
+,c.*962C>T,p.?,COSN28982225,1,Unknown
+,c.*97C>A,p.?,COSN32900969,1,Unknown
+,c.?,p.?,COSM9568341,15,Unknown
