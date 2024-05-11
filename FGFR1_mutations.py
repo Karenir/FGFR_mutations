@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = '/Volumes/KarenDisk/V24/Mutationsfigures/FGFR1_mutations_cosmic.csv'
+file_path = 'FGFR1_mutations_cosmic.csv'
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv(file_path)
