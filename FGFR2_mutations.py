@@ -20,9 +20,9 @@ mis_mut_S791 = df[(df ['Position'] == 791) & (df['Type'] == 'Substitution - Miss
 #Add count.sum because there could be more counts per mutation
 print("Stop codons before 791: ", stop_codon_before_791 ['Count'].sum()) #42
 print("Frameshift before 791: ", frameshift_before_791 ['Count'].sum()) #23
-print("Pointmutations on S780:", mis_mut_S780 ['Count'].sum()) #1
-print("Pointmutations on S791:", mis_mut_S791 ['Count'].sum()) #4
-print("Insertions/Deletions in frame influencing S777 and/or S789: 0") #manual count
+print("Point mutations on S780:", mis_mut_S780 ['Count'].sum()) #1
+print("Point mutations on S791:", mis_mut_S791 ['Count'].sum()) #4
+print("Insertions/Deletions in frame influencing S780 and/or S791: 0") #manual count
 
 #All mutations
 all_stop_codons = df [df ['Type'] == 'Substitution - Nonsense']
@@ -43,10 +43,10 @@ print("total stop codons w/cat site: ", all_stop_codons_cat ['Count'].sum()) #4
 print("total frameshifts w/cat site: ", all_frameshifts_cat ['Count'].sum()) #3
 print("total deletions/insertion in frame w/cat site: ", all_deletionsInsertion_inframe ['Count'].sum()) #all 16 (checked manually)
 
-#Mutations influencing $789 with cat site:
+#Mutations influencing S791 with cat site:
 all_stop_codons_cat_tail = df[(df ['Position'] >= 770) & (df['Position'] <= 791) & (df ['Type'] == 'Substitution - Nonsense')]
 all_frameshifts_cat_tail = df[(df ['Position'] >= 770) & (df['Position'] <= 791) & ((df ['Type'] == 'Deletion - Frameshift') | (df['Type'] == 'Insertion - Frameshift') | (df['Type'] == 'Complex - deletion inframe'))]
 
 print("total stop codons w/cat site influencing S791: ", all_stop_codons_cat_tail['Count'].sum()) #2
 print("total frameshifts w/cat site influencing S791: ", all_frameshifts_cat_tail['Count'].sum()) #1
-print("Insertions/Deletions in frame with catalytic site influencing S777 and/or S789: 0") #manual count
+print("Insertions/Deletions in frame with catalytic site influencing S780 and/or S791: 0") #manual count
