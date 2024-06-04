@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = 'FGFR3_mutations_cosmic.csv' #You might have to change the file name to the path where you store FGFR3_mutations_cosmic.csv
+file_path = 'FGFR4_mutations_cosmic.csv' #You might have to change the file name to the path where you store FGFR4_mutations_cosmic.csv
 
 # Read the CSV file into a DataFrame 
 df = pd.read_csv(file_path)
