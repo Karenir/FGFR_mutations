@@ -1,11 +1,11 @@
 import pandas as pd
 
-file_path = 'FGFR1_mutations_cosmic.csv'
+file_path = 'FGFR1_mutations_cosmic.csv' #If you download GitHub package, you have to change the file_path to the path where you store FGFR1_mutations_cosmic.csv
 
-# Read the csv file into a data frame
+#Read the csv file into a data frame
 df = pd.read_csv(file_path)
 
-# Filter out silent mutations] and unknown mutations
+#Filter out silent mutations and unknown mutations
 non_silent_mutations = df[(df['Type'] != 'Substitution - coding silent') & (df['Type'] != 'Unknown')]
 
 print("All mutations that are not silent or unknown:", non_silent_mutations['Count'].sum()) #821
