@@ -2,7 +2,7 @@ import pandas as pd
 
 file_path = 'FGFR1_mutations_cosmic.csv'
 
-# Read the csv file into a DataFrame
+# Read the csv file into a data frame
 df = pd.read_csv(file_path)
 
 # Filter out silent mutations] and unknown mutations
