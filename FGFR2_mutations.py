@@ -1,14 +1,14 @@
 import pandas as pd
 
-file_path = 'FGFR2_mutations_cosmic.csv' #You might have to change the file name to the path where you store FGFR2_mutations_cosmic.csv
+file_path = 'FGFR2_mutations_cosmic.csv' #If you download GitHub package, you have to change the file_path to the path where you store FGFR2_mutations_cosmic.csv
 
-# Read the CSV file into a DataFrame 
+#Read the csv file into a data frame
 df = pd.read_csv(file_path)
 
-# Filter out silent mutations] and unknown mutations
+#Filter out silent mutations and unknown mutations
 non_silent_mutations = df[(df['Type'] != 'Substitution - coding silent') & (df['Type'] != 'Unknown')]
 
-# Count of all mutations (excluding silent mutations and unknown)
+#Count of all mutations (excluding silent mutations and unknown)
 print("all mutations that are not silent", non_silent_mutations ['Count'].sum()) #1583
 
 #Mutations influencing S791
